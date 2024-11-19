@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|c:\\users\\cisco01\\documents\\rene\\crear_api\\controllers\\pubisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|solutionrelative:controllers\\pubisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|c:\\users\\cisco01\\documents\\rene\\crear_api\\data\\services\\publishersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|solutionrelative:data\\services\\publishersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|c:\\users\\cisco01\\documents\\rene\\crear_api\\data\\viewmodels\\publishervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|solutionrelative:data\\viewmodels\\publishervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|c:\\users\\cisco01\\documents\\rene\\crear_api\\data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|solutionrelative:data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|c:\\users\\cisco01\\documents\\rene\\crear_api\\data\\services\\authorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|solutionrelative:data\\services\\authorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|c:\\users\\cisco01\\documents\\rene\\crear_api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|c:\\users\\cisco01\\documents\\rene\\crear_api\\data\\viewmodels\\authorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0454D1-323A-4152-B378-78524520659D}|CREAR_API.csproj|solutionrelative:data\\viewmodels\\authorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublishersService.cs",
+              "DocumentMoniker": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Data\\Services\\PublishersService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\PublishersService.cs",
+              "ToolTip": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Data\\Services\\PublishersService.cs",
+              "RelativeToolTip": "Data\\Services\\PublishersService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:53:50.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookVM.cs",
+              "DocumentMoniker": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Data\\ViewModels\\BookVM.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\BookVM.cs",
+              "ToolTip": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Data\\ViewModels\\BookVM.cs",
+              "RelativeToolTip": "Data\\ViewModels\\BookVM.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:52:40.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PubishersController.cs",
+              "DocumentMoniker": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Controllers\\PubishersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PubishersController.cs",
+              "ToolTip": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Controllers\\PubishersController.cs",
+              "RelativeToolTip": "Controllers\\PubishersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:40:50.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublisherVM.cs",
+              "DocumentMoniker": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Data\\ViewModels\\PublisherVM.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\PublisherVM.cs",
+              "ToolTip": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Data\\ViewModels\\PublisherVM.cs",
+              "RelativeToolTip": "Data\\ViewModels\\PublisherVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:38:33.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:32:41.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorsService.cs",
+              "DocumentMoniker": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Data\\Services\\AuthorsService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\AuthorsService.cs",
+              "ToolTip": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Data\\Services\\AuthorsService.cs",
+              "RelativeToolTip": "Data\\Services\\AuthorsService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:18:53.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorVM.cs",
+              "DocumentMoniker": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Data\\ViewModels\\AuthorVM.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\AuthorVM.cs",
+              "ToolTip": "C:\\Users\\cisco01\\Documents\\RENE\\CREAR_API\\Data\\ViewModels\\AuthorVM.cs",
+              "RelativeToolTip": "Data\\ViewModels\\AuthorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:16:56.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
